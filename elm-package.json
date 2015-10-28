@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Slack bot in Elm on AWS Lambda",
+    "repository": "https://github.com/ento/elambot.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "circuithub/elm-json-extra": "2.1.1 <= v < 3.0.0",
+        "elm-lang/core": "2.1.0 <= v <= 2.1.0",
+        "evancz/elm-effects": "1.0.0 <= v <= 1.0.0"
+    },
+    "elm-version": "0.15.1 <= v <= 0.15.1"
+}
